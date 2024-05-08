@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @hyerland
+- 👀 I’m interested in **coding Python projects and learning new languages.**
+- 🌱 I’m currently learning **Python (and hopefully C++)**
+- 💞️ I’m looking to collaborate on **GitHub, projects, and much more!**
+- 😄 Pronouns: **He / Him**
+- ⚡ Fun fact: **Started to code when I was 10.**
